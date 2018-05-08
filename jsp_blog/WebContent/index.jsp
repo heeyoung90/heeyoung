@@ -13,7 +13,7 @@
 	if (id == null) {
 		str = "메인 페이지 입니다.";
 	} else {
-		str = "안녕하세요 " + id + "님!";
+		str = "안녕하세요 " + id + "님! 반갑습니다";
 	}http://localhost:8000/jsp_blog/menu/images/handsome2.jpg
 %>
 
